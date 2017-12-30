@@ -11,7 +11,7 @@ class Motor:
 	standbyPin = ""
 	
 	#Defaults
-	hertz = 50
+	hertz = 1000
 	reverse = False #Reverse flips the direction of the motor
 	
 	#Constructor
