@@ -1,4 +1,4 @@
-# Raspberry_Pi_TB6612FNG_Python
+# Raspberry Pi TB6612FNG Python Library
 A Python library for the Raspberry Pi and TB6612FNG motor driver
 
 Example
